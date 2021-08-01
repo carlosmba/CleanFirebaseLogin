@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CleanArchitectureLoginFirebase</string>
+    <string name="signIn_title">Iniciar Sesión</string>
+    <string name="btn_signIn">Iniciar Sesión</string>
+
+    <!--Messages-->
+    <string name="message_error_field">Uno o ambos campos estan vacios</string>
+    <string name="message_empty_email">Por Favor Ingrese su Correo</string>
+    <string name="message_empty_password">Por Favor Ingrese su Clave</string>
+    <string name="message_error_auth">Ocurrio un problema al Iniciar sesión</string>
+
+    <!--Hint-->
+    <string name="hint_email">Correo</string>
+    <string name="hint_pass">Contraseña</string>
+    <string name="hint_signUp_fullName">Nombre Completo</string>
+    <string name="hint_passTwo">Repetir Contraseña</string>
+    <string name="btn_signUp">Registrarse</string>
+    <string name="message_empty_error">Por favor llene este campo</string>
+    <string name="message_error_email">El correo es invalido</string>
+    <string name="message_error_pass">Las contraseñas no coinciden</string>
+    <string name="send_message_email">Correo enviado</string>
+    <string name="title_recover_email">Restablecer Contraseña</string>
+    <string name="btn_recover_email">Enviar</string>
+    <string name="title_signIn_recover_email">¿Se te olvido la contraseña?</string>
+</resources>

@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "42957460750",
+    "firebase_url": "https://users-c0a84-default-rtdb.firebaseio.com",
+    "project_id": "users-c0a84",
+    "storage_bucket": "users-c0a84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42957460750:android:68a837b6a512dfee2ff35f",
+        "android_client_info": {
+          "package_name": "com.mendozasolutions.cleanarchitectureloginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42957460750-mrck91lhe11m0fb9be4hnmkridjkh0f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsdGainQIYxoh7y8SaR-JYQWUOE5JplTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42957460750-mrck91lhe11m0fb9be4hnmkridjkh0f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42957460750:android:15cd605a5515aaa32ff35f",
+        "android_client_info": {
+          "package_name": "com.mendozasolutions.mvvmcleanarchitecture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42957460750-mrck91lhe11m0fb9be4hnmkridjkh0f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsdGainQIYxoh7y8SaR-JYQWUOE5JplTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42957460750-mrck91lhe11m0fb9be4hnmkridjkh0f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42957460750:android:abe4caaa76fab8eb2ff35f",
+        "android_client_info": {
+          "package_name": "com.mendozasolutions.recyclerviewexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42957460750-mrck91lhe11m0fb9be4hnmkridjkh0f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsdGainQIYxoh7y8SaR-JYQWUOE5JplTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42957460750-mrck91lhe11m0fb9be4hnmkridjkh0f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
